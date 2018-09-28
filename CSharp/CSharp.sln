@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-04-RegNumber-CS", "E-04-R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-05-Polymorphic-CS", "E-05-Polymorphic-CS\E-05-Polymorphic-CS.csproj", "{3EF1BEAD-271D-4F26-B173-BDC51C7E0443}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-06-ClassesAndObjects", "E-06-ClassesAndObjects\E-06-ClassesAndObjects.csproj", "{CA0F225B-1179-47FC-9074-49C6081EF6D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{3EF1BEAD-271D-4F26-B173-BDC51C7E0443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF1BEAD-271D-4F26-B173-BDC51C7E0443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF1BEAD-271D-4F26-B173-BDC51C7E0443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
