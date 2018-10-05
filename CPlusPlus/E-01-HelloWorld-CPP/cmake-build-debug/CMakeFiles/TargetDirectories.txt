@@ -1,0 +1,3 @@
+C:/Users/adam/source/repos/aallport/CSharpExamples/CPlusPlus/E-01-HelloWorld-CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/adam/source/repos/aallport/CSharpExamples/CPlusPlus/E-01-HelloWorld-CPP/cmake-build-debug/CMakeFiles/E_01_HelloWorld_CPP.dir
+C:/Users/adam/source/repos/aallport/CSharpExamples/CPlusPlus/E-01-HelloWorld-CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
