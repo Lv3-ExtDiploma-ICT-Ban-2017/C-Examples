@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-05-Polymorphic-CS", "E-05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-06-ClassesAndObjects", "E-06-ClassesAndObjects\E-06-ClassesAndObjects.csproj", "{CA0F225B-1179-47FC-9074-49C6081EF6D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-07-Calculator-CS", "E-07-Calculator-CS\E-07-Calculator-CS.csproj", "{FFAA4958-2425-4620-9B0F-4D82CB72421B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0F225B-1179-47FC-9074-49C6081EF6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
