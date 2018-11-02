@@ -24,7 +24,6 @@
 
 using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.WindowsRuntime;
 
 namespace E_06_ClassesAndObjects
 {
@@ -63,6 +62,7 @@ namespace E_06_ClassesAndObjects
                 {
                     Console.WriteLine(" - " + foodStuff);
                 }
+
                 Console.WriteLine();
             }
         }
