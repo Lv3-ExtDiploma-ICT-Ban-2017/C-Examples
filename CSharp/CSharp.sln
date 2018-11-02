@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-06-ClassesAndObjects", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-07-Calculator-CS", "E-07-Calculator-CS\E-07-Calculator-CS.csproj", "{FFAA4958-2425-4620-9B0F-4D82CB72421B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-08-Interfaces", "E-08-Interfaces\E-08-Interfaces.csproj", "{F9712B88-2985-4DBD-B352-9F0D1420BD90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFAA4958-2425-4620-9B0F-4D82CB72421B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
