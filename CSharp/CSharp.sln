@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-02-Randomness-CS", "E-02-Randomness-CS\E-02-Randomness-CS.csproj", "{4ECCCA2B-0D22-44F4-9943-93FAFCDF5B5B}"
 EndProject
@@ -54,5 +54,9 @@ Global
 		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9712B88-2985-4DBD-B352-9F0D1420BD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103CA7B6-9510-4EE2-9AB7-62E828B6F7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103CA7B6-9510-4EE2-9AB7-62E828B6F7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103CA7B6-9510-4EE2-9AB7-62E828B6F7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103CA7B6-9510-4EE2-9AB7-62E828B6F7AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
