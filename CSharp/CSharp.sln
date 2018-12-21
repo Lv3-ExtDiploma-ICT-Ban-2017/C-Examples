@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-06-ClassesAndObjects", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-07-Calculator-CS", "E-07-Calculator-CS\E-07-Calculator-CS.csproj", "{FFAA4958-2425-4620-9B0F-4D82CB72421B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-08-Interfaces", "E-08-Interfaces\E-08-Interfaces.csproj", "{F9712B88-2985-4DBD-B352-9F0D1420BD90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-08-Interfaces-CS", "E-08-Interfaces-CS\E-08-Interfaces-CS.csproj", "{F9712B88-2985-4DBD-B352-9F0D1420BD90}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-09-GraphicsDrawing-CS", "E-09-GraphicsDrawing-CS\E-09-GraphicsDrawing-CS.csproj", "{A7B682D7-F0F0-47BE-B321-F0ACD21FFA09}"
 EndProject
